@@ -1,0 +1,3047 @@
+[
+  {
+    "name": "Birmingham",
+    "city": "Birmingham",
+    "state": "AL",
+    "stateName": "Alabama",
+    "id": 32661
+  },
+  {
+    "name": "Huntsville",
+    "city": "Huntsville",
+    "state": "AL",
+    "stateName": "Alabama",
+    "id": 32752
+  },
+  {
+    "name": "Montgomery",
+    "city": "Montgomery",
+    "state": "AL",
+    "stateName": "Alabama",
+    "id": 32799
+  },
+  {
+    "name": "Mobile",
+    "city": "Mobile",
+    "state": "AL",
+    "stateName": "Alabama",
+    "id": 32804
+  },
+  {
+    "name": "Muscle Shoals",
+    "city": "Muscle Shoals",
+    "state": "AL",
+    "stateName": "Alabama",
+    "id": 80254
+  },
+  {
+    "name": "Kodiak",
+    "city": "Kodiak",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32637
+  },
+  {
+    "name": "King Salmon",
+    "city": "King Salmon",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32640
+  },
+  {
+    "name": "Anchorage",
+    "city": "Anchorage",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32645
+  },
+  {
+    "name": "Annette",
+    "city": "Annette",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32647
+  },
+  {
+    "name": "Bethel",
+    "city": "Bethel",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32657
+  },
+  {
+    "name": "Delta Junction",
+    "city": "Delta Junction",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32662
+  },
+  {
+    "name": "Barrow",
+    "city": "Barrow",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32673
+  },
+  {
+    "name": "Bettles",
+    "city": "Bettles",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32675
+  },
+  {
+    "name": "Cold Bay",
+    "city": "Cold Bay",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32683
+  },
+  {
+    "name": "Fairbanks",
+    "city": "Fairbanks",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32722
+  },
+  {
+    "name": "Gulkana",
+    "city": "Gulkana",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32736
+  },
+  {
+    "name": "Homer",
+    "city": "Homer",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32749
+  },
+  {
+    "name": "Juneau",
+    "city": "Juneau",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32772
+  },
+  {
+    "name": "Mcgrath",
+    "city": "Mcgrath",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32790
+  },
+  {
+    "name": "Nome",
+    "city": "Nome",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32817
+  },
+  {
+    "name": "Kotzebue",
+    "city": "Kotzebue",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32822
+  },
+  {
+    "name": "St Paul Island",
+    "city": "St Paul Island",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32863
+  },
+  {
+    "name": "Talkeetna",
+    "city": "Talkeetna",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32870
+  },
+  {
+    "name": "Yakutat",
+    "city": "Yakutat",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 32886
+  },
+  {
+    "name": "Skagway",
+    "city": "Skagway",
+    "state": "AK",
+    "stateName": "Alaska",
+    "id": 80224
+  },
+  {
+    "name": "Pago Pago",
+    "city": "Pago Pago",
+    "state": "AS",
+    "stateName": "AS",
+    "id": 32975
+  },
+  {
+    "name": "Flagstaff",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 32726
+  },
+  {
+    "name": "Winslow",
+    "city": "Winslow",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 32763
+  },
+  {
+    "name": "Phoenix",
+    "city": "Phoenix",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 32828
+  },
+  {
+    "name": "Tucson",
+    "city": "Tucson",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 32878
+  },
+  {
+    "name": "Yuma",
+    "city": "Yuma",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 32889
+  },
+  {
+    "name": "Lake Havasu City",
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 80246
+  },
+  {
+    "name": "Kingman",
+    "city": "Kingman",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 83787
+  },
+  {
+    "name": "Oracle",
+    "city": "Oracle",
+    "state": "AZ",
+    "stateName": "Arizona",
+    "id": 94463
+  },
+  {
+    "name": "Fort Smith",
+    "city": "Fort Smith",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 32730
+  },
+  {
+    "name": "Little Rock",
+    "city": "Little Rock",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 32783
+  },
+  {
+    "name": "Harrison",
+    "city": "Harrison",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 80241
+  },
+  {
+    "name": "Jonesboro",
+    "city": "Jonesboro",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 80243
+  },
+  {
+    "name": "Pine Bluff",
+    "city": "Pine Bluff",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 80257
+  },
+  {
+    "name": "Russellville",
+    "city": "Russellville",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 83804
+  },
+  {
+    "name": "Booneville",
+    "city": "Booneville",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 85829
+  },
+  {
+    "name": "Dequeen",
+    "city": "Dequeen",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 85833
+  },
+  {
+    "name": "Mount Ida",
+    "city": "Mount Ida",
+    "state": "AR",
+    "stateName": "Arkansas",
+    "id": 85849
+  },
+  {
+    "name": "Bakersfield",
+    "city": "Bakersfield",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32659
+  },
+  {
+    "name": "Bishop",
+    "city": "Bishop",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32663
+  },
+  {
+    "name": "Los Angeles Downtown",
+    "city": "Los Angeles Downtown",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32694
+  },
+  {
+    "name": "Eureka",
+    "city": "Eureka",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32712
+  },
+  {
+    "name": "Fresno",
+    "city": "Fresno",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32724
+  },
+  {
+    "name": "Los Angeles Airport",
+    "city": "Los Angeles Airport",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32775
+  },
+  {
+    "name": "Long Beach",
+    "city": "Long Beach",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32781
+  },
+  {
+    "name": "Redding",
+    "city": "Redding",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32837
+  },
+  {
+    "name": "Sacramento",
+    "city": "Sacramento",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32846
+  },
+  {
+    "name": "San Diego",
+    "city": "San Diego",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32847
+  },
+  {
+    "name": "Stockton",
+    "city": "Stockton",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32851
+  },
+  {
+    "name": "San Francisco Airport",
+    "city": "San Francisco Airport",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32854
+  },
+  {
+    "name": "Santa Maria",
+    "city": "Santa Maria",
+    "state": "CA",
+    "stateName": "California",
+    "id": 32862
+  },
+  {
+    "name": "Burbank Glendale Pasadena",
+    "city": "Burbank Glendale Pasadena",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80229
+  },
+  {
+    "name": "Camarillo",
+    "city": "Camarillo",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80231
+  },
+  {
+    "name": "Needles",
+    "city": "Needles",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80234
+  },
+  {
+    "name": "Oxnard",
+    "city": "Oxnard",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80247
+  },
+  {
+    "name": "Palm Springs",
+    "city": "Palm Springs",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80262
+  },
+  {
+    "name": "Riverside",
+    "city": "Riverside",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80264
+  },
+  {
+    "name": "Ramona",
+    "city": "Ramona",
+    "state": "CA",
+    "stateName": "California",
+    "id": 80266
+  },
+  {
+    "name": "Crescent City",
+    "city": "Crescent City",
+    "state": "CA",
+    "stateName": "California",
+    "id": 83775
+  },
+  {
+    "name": "Escondido",
+    "city": "Escondido",
+    "state": "CA",
+    "stateName": "California",
+    "id": 83780
+  },
+  {
+    "name": "Sacramento Downtown",
+    "city": "Sacramento Downtown",
+    "state": "CA",
+    "stateName": "California",
+    "id": 83807
+  },
+  {
+    "name": "Tahoe City",
+    "city": "Tahoe City",
+    "state": "CA",
+    "stateName": "California",
+    "id": 83810
+  },
+  {
+    "name": "Ukiah",
+    "city": "Ukiah",
+    "state": "CA",
+    "stateName": "California",
+    "id": 83813
+  },
+  {
+    "name": "Alturas",
+    "city": "Alturas",
+    "state": "CA",
+    "stateName": "California",
+    "id": 85826
+  },
+  {
+    "name": "Mount Shasta",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "stateName": "California",
+    "id": 85845
+  },
+  {
+    "name": "Palmdale",
+    "city": "Palmdale",
+    "state": "CA",
+    "stateName": "California",
+    "id": 85853
+  },
+  {
+    "name": "Lancaster",
+    "city": "Lancaster",
+    "state": "CA",
+    "stateName": "California",
+    "id": 85855
+  },
+  {
+    "name": "El Cajon",
+    "city": "El Cajon",
+    "state": "CA",
+    "stateName": "California",
+    "id": 94454
+  },
+  {
+    "name": "Hanford",
+    "city": "Hanford",
+    "state": "CA",
+    "stateName": "California",
+    "id": 94456
+  },
+  {
+    "name": "El Centro",
+    "city": "El Centro",
+    "state": "CA",
+    "stateName": "California",
+    "id": 94458
+  },
+  {
+    "name": "Madera",
+    "city": "Madera",
+    "state": "CA",
+    "stateName": "California",
+    "id": 94459
+  },
+  {
+    "name": "Merced",
+    "city": "Merced",
+    "state": "CA",
+    "stateName": "California",
+    "id": 94460
+  },
+  {
+    "name": "San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "stateName": "California",
+    "id": 98627
+  },
+  {
+    "name": "Alamosa",
+    "city": "Alamosa",
+    "state": "CO",
+    "stateName": "Colorado",
+    "id": 32643
+  },
+  {
+    "name": "Colorado Springs",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "stateName": "Colorado",
+    "id": 32691
+  },
+  {
+    "name": "Denver",
+    "city": "Denver",
+    "state": "CO",
+    "stateName": "Colorado",
+    "id": 32706
+  },
+  {
+    "name": "Grand Junction",
+    "city": "Grand Junction",
+    "state": "CO",
+    "stateName": "Colorado",
+    "id": 32735
+  },
+  {
+    "name": "Pueblo",
+    "city": "Pueblo",
+    "state": "CO",
+    "stateName": "Colorado",
+    "id": 32833
+  },
+  {
+    "name": "Hartford",
+    "city": "Hartford",
+    "state": "CT",
+    "stateName": "Connecticut",
+    "id": 32655
+  },
+  {
+    "name": "Bridgeport",
+    "city": "Bridgeport",
+    "state": "CT",
+    "stateName": "Connecticut",
+    "id": 32656
+  },
+  {
+    "name": "Wilmington",
+    "city": "Wilmington",
+    "state": "DE",
+    "stateName": "Delaware",
+    "id": 32759
+  },
+  {
+    "name": "Georgetown",
+    "city": "Georgetown",
+    "state": "DE",
+    "stateName": "Delaware",
+    "id": 83782
+  },
+  {
+    "name": "Washington",
+    "city": "Washington",
+    "state": "DC",
+    "stateName": "District of Columbia",
+    "id": 32704
+  },
+  {
+    "name": "Yap",
+    "city": "Yap",
+    "state": "FM",
+    "stateName": "FM",
+    "id": 32981
+  },
+  {
+    "name": "Pohnpei",
+    "city": "Pohnpei",
+    "state": "FM",
+    "stateName": "FM",
+    "id": 32982
+  },
+  {
+    "name": "Chuuk",
+    "city": "Chuuk",
+    "state": "FM",
+    "stateName": "FM",
+    "id": 32983
+  },
+  {
+    "name": "Daytona Beach",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32700
+  },
+  {
+    "name": "Key West",
+    "city": "Key West",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32721
+  },
+  {
+    "name": "Fort Myers",
+    "city": "Fort Myers",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32727
+  },
+  {
+    "name": "Gainesville",
+    "city": "Gainesville",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32739
+  },
+  {
+    "name": "Jacksonville",
+    "city": "Jacksonville",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32769
+  },
+  {
+    "name": "Orlando",
+    "city": "Orlando",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32793
+  },
+  {
+    "name": "Miami",
+    "city": "Miami",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32800
+  },
+  {
+    "name": "West Palm Beach",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32824
+  },
+  {
+    "name": "Pensacola",
+    "city": "Pensacola",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32832
+  },
+  {
+    "name": "Tallahassee",
+    "city": "Tallahassee",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32871
+  },
+  {
+    "name": "Tampa",
+    "city": "Tampa",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32874
+  },
+  {
+    "name": "Vero Beach",
+    "city": "Vero Beach",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 32882
+  },
+  {
+    "name": "Melbourne",
+    "city": "Melbourne",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 40910
+  },
+  {
+    "name": "Fort Lauderdale",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 80235
+  },
+  {
+    "name": "Fort Pierce",
+    "city": "Fort Pierce",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 80236
+  },
+  {
+    "name": "Sanford",
+    "city": "Sanford",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 80268
+  },
+  {
+    "name": "Sarasota-Bradenton",
+    "city": "Sarasota-Bradenton",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 80270
+  },
+  {
+    "name": "Lakeland",
+    "city": "Lakeland",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 83789
+  },
+  {
+    "name": "Leesburg",
+    "city": "Leesburg",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 83790
+  },
+  {
+    "name": "Marathon",
+    "city": "Marathon",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 83796
+  },
+  {
+    "name": "Punta Gorda",
+    "city": "Punta Gorda",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 83800
+  },
+  {
+    "name": "Brooksville",
+    "city": "Brooksville",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 85828
+  },
+  {
+    "name": "Winter Haven",
+    "city": "Winter Haven",
+    "state": "FL",
+    "stateName": "Florida",
+    "id": 85836
+  },
+  {
+    "name": "Augusta",
+    "city": "Augusta",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 32638
+  },
+  {
+    "name": "Athens",
+    "city": "Athens",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 32639
+  },
+  {
+    "name": "Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 32650
+  },
+  {
+    "name": "Columbus",
+    "city": "Columbus",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 32697
+  },
+  {
+    "name": "Macon",
+    "city": "Macon",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 32792
+  },
+  {
+    "name": "Savannah",
+    "city": "Savannah",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 32849
+  },
+  {
+    "name": "Albany",
+    "city": "Albany",
+    "state": "GA",
+    "stateName": "Georgia",
+    "id": 94474
+  },
+  {
+    "name": "Guam",
+    "city": "Guam",
+    "state": "GU",
+    "stateName": "GU",
+    "id": 32746
+  },
+  {
+    "name": "Honolulu",
+    "city": "Honolulu",
+    "state": "HI",
+    "stateName": "Hawaii",
+    "id": 32748
+  },
+  {
+    "name": "Hilo",
+    "city": "Hilo",
+    "state": "HI",
+    "stateName": "Hawaii",
+    "id": 32767
+  },
+  {
+    "name": "Lihue",
+    "city": "Lihue",
+    "state": "HI",
+    "stateName": "Hawaii",
+    "id": 32782
+  },
+  {
+    "name": "Kahului",
+    "city": "Kahului",
+    "state": "HI",
+    "stateName": "Hawaii",
+    "id": 32813
+  },
+  {
+    "name": "Boise",
+    "city": "Boise",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 32669
+  },
+  {
+    "name": "Lewiston",
+    "city": "Lewiston",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 32787
+  },
+  {
+    "name": "Pocatello",
+    "city": "Pocatello",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 32830
+  },
+  {
+    "name": "McCall",
+    "city": "McCall",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 80255
+  },
+  {
+    "name": "Burley",
+    "city": "Burley",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 83774
+  },
+  {
+    "name": "Salmon",
+    "city": "Salmon",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 83806
+  },
+  {
+    "name": "Stanley",
+    "city": "Stanley",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 83808
+  },
+  {
+    "name": "American Falls",
+    "city": "American Falls",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 85827
+  },
+  {
+    "name": "Jerome",
+    "city": "Jerome",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 85840
+  },
+  {
+    "name": "Challis",
+    "city": "Challis",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 85842
+  },
+  {
+    "name": "Dworshak",
+    "city": "Dworshak",
+    "state": "ID",
+    "stateName": "Idaho",
+    "id": 94453
+  },
+  {
+    "name": "Moline",
+    "city": "Moline",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 32803
+  },
+  {
+    "name": "Chicago",
+    "city": "Chicago",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 32819
+  },
+  {
+    "name": "Peoria",
+    "city": "Peoria",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 32829
+  },
+  {
+    "name": "Rockford",
+    "city": "Rockford",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 32839
+  },
+  {
+    "name": "Springfield",
+    "city": "Springfield",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 32864
+  },
+  {
+    "name": "Quincy",
+    "city": "Quincy",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 80272
+  },
+  {
+    "name": "Carbondale",
+    "city": "Carbondale",
+    "state": "IL",
+    "stateName": "Illinois",
+    "id": 85844
+  },
+  {
+    "name": "Evansville",
+    "city": "Evansville",
+    "state": "IN",
+    "stateName": "Indiana",
+    "id": 32719
+  },
+  {
+    "name": "Fort Wayne",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "stateName": "Indiana",
+    "id": 32731
+  },
+  {
+    "name": "Indianapolis",
+    "city": "Indianapolis",
+    "state": "IN",
+    "stateName": "Indiana",
+    "id": 32761
+  },
+  {
+    "name": "South Bend",
+    "city": "South Bend",
+    "state": "IN",
+    "stateName": "Indiana",
+    "id": 32850
+  },
+  {
+    "name": "Waterloo",
+    "city": "Waterloo",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 32642
+  },
+  {
+    "name": "Dubuque",
+    "city": "Dubuque",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 32703
+  },
+  {
+    "name": "Des Moines",
+    "city": "Des Moines",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 32710
+  },
+  {
+    "name": "Sioux City",
+    "city": "Sioux City",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 32868
+  },
+  {
+    "name": "Spencer",
+    "city": "Spencer",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 80269
+  },
+  {
+    "name": "Cedar Rapids",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 83776
+  },
+  {
+    "name": "Burlington",
+    "city": "Burlington",
+    "state": "IA",
+    "stateName": "Iowa",
+    "id": 94449
+  },
+  {
+    "name": "Concordia",
+    "city": "Concordia",
+    "state": "KS",
+    "stateName": "Kansas",
+    "id": 32689
+  },
+  {
+    "name": "Dodge City",
+    "city": "Dodge City",
+    "state": "KS",
+    "stateName": "Kansas",
+    "id": 32705
+  },
+  {
+    "name": "Goodland",
+    "city": "Goodland",
+    "state": "KS",
+    "stateName": "Kansas",
+    "id": 32737
+  },
+  {
+    "name": "Wichita",
+    "city": "Wichita",
+    "state": "KS",
+    "stateName": "Kansas",
+    "id": 32758
+  },
+  {
+    "name": "Topeka",
+    "city": "Topeka",
+    "state": "KS",
+    "stateName": "Kansas",
+    "id": 32873
+  },
+  {
+    "name": "Salina",
+    "city": "Salina",
+    "state": "KS",
+    "stateName": "Kansas",
+    "id": 35081
+  },
+  {
+    "name": "Jackson",
+    "city": "Jackson",
+    "state": "KY",
+    "stateName": "Kentucky",
+    "id": 32771
+  },
+  {
+    "name": "Lexington",
+    "city": "Lexington",
+    "state": "KY",
+    "stateName": "Kentucky",
+    "id": 32779
+  },
+  {
+    "name": "Paducah",
+    "city": "Paducah",
+    "state": "KY",
+    "stateName": "Kentucky",
+    "id": 32823
+  },
+  {
+    "name": "Louisville",
+    "city": "Louisville",
+    "state": "KY",
+    "stateName": "Kentucky",
+    "id": 32852
+  },
+  {
+    "name": "Baton Rouge",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 32674
+  },
+  {
+    "name": "Lake Charles",
+    "city": "Lake Charles",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 32778
+  },
+  {
+    "name": "New Orleans",
+    "city": "New Orleans",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 32810
+  },
+  {
+    "name": "Shreveport",
+    "city": "Shreveport",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 32857
+  },
+  {
+    "name": "Monroe",
+    "city": "Monroe",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 80253
+  },
+  {
+    "name": "Natchitoches",
+    "city": "Natchitoches",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 83786
+  },
+  {
+    "name": "Tallulah-Vicksburg",
+    "city": "Tallulah-Vicksburg",
+    "state": "LA",
+    "stateName": "Louisiana",
+    "id": 83811
+  },
+  {
+    "name": "Caribou",
+    "city": "Caribou",
+    "state": "ME",
+    "stateName": "Maine",
+    "id": 32682
+  },
+  {
+    "name": "Portland",
+    "city": "Portland",
+    "state": "ME",
+    "stateName": "Maine",
+    "id": 32835
+  },
+  {
+    "name": "Bangor",
+    "city": "Bangor",
+    "state": "ME",
+    "stateName": "Maine",
+    "id": 35079
+  },
+  {
+    "name": "Millinocket",
+    "city": "Millinocket",
+    "state": "ME",
+    "stateName": "Maine",
+    "id": 80252
+  },
+  {
+    "name": "Majuro",
+    "city": "Majuro",
+    "state": "MH",
+    "stateName": "MH",
+    "id": 32976
+  },
+  {
+    "name": "Kwajalein",
+    "city": "Kwajalein",
+    "state": "MH",
+    "stateName": "MH",
+    "id": 32977
+  },
+  {
+    "name": "Baltimore",
+    "city": "Baltimore",
+    "state": "MD",
+    "stateName": "Maryland",
+    "id": 32678
+  },
+  {
+    "name": "Salisbury",
+    "city": "Salisbury",
+    "state": "MD",
+    "stateName": "Maryland",
+    "id": 80267
+  },
+  {
+    "name": "Baltimore Downtown",
+    "city": "Baltimore Downtown",
+    "state": "MD",
+    "stateName": "Maryland",
+    "id": 85834
+  },
+  {
+    "name": "Hagerstown",
+    "city": "Hagerstown",
+    "state": "MD",
+    "stateName": "Maryland",
+    "id": 85838
+  },
+  {
+    "name": "Annapolis",
+    "city": "Annapolis",
+    "state": "MD",
+    "stateName": "Maryland",
+    "id": 85850
+  },
+  {
+    "name": "Boston",
+    "city": "Boston",
+    "state": "MA",
+    "stateName": "Massachusetts",
+    "id": 32670
+  },
+  {
+    "name": "Milton",
+    "city": "Milton",
+    "state": "MA",
+    "stateName": "Massachusetts",
+    "id": 32805
+  },
+  {
+    "name": "Worcester",
+    "city": "Worcester",
+    "state": "MA",
+    "stateName": "Massachusetts",
+    "id": 32821
+  },
+  {
+    "name": "Westfield",
+    "city": "Westfield",
+    "state": "MA",
+    "stateName": "Massachusetts",
+    "id": 83769
+  },
+  {
+    "name": "Sault Ste Marie",
+    "city": "Sault Ste Marie",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32646
+  },
+  {
+    "name": "Alpena",
+    "city": "Alpena",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32648
+  },
+  {
+    "name": "Detroit",
+    "city": "Detroit",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32711
+  },
+  {
+    "name": "Flint",
+    "city": "Flint",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32728
+  },
+  {
+    "name": "Grand Rapids",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32742
+  },
+  {
+    "name": "Houghton Lake",
+    "city": "Houghton Lake",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32753
+  },
+  {
+    "name": "Lansing",
+    "city": "Lansing",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32773
+  },
+  {
+    "name": "Muskegon",
+    "city": "Muskegon",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32802
+  },
+  {
+    "name": "Marquette County",
+    "city": "Marquette County",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 32806
+  },
+  {
+    "name": "Saginaw",
+    "city": "Saginaw",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 80248
+  },
+  {
+    "name": "Kalamazoo",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 83768
+  },
+  {
+    "name": "Holland",
+    "city": "Holland",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 94447
+  },
+  {
+    "name": "Battle Creek",
+    "city": "Battle Creek",
+    "state": "MI",
+    "stateName": "Michigan",
+    "id": 94450
+  },
+  {
+    "name": "THORHULT",
+    "city": "THORHULT",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 10627
+  },
+  {
+    "name": "Duluth",
+    "city": "Duluth",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 32708
+  },
+  {
+    "name": "International Falls",
+    "city": "International Falls",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 32762
+  },
+  {
+    "name": "Minneapolis-St Paul",
+    "city": "Minneapolis-St Paul",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 32809
+  },
+  {
+    "name": "Rochester",
+    "city": "Rochester",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 32845
+  },
+  {
+    "name": "Saint Cloud",
+    "city": "Saint Cloud",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 32866
+  },
+  {
+    "name": "Brainerd",
+    "city": "Brainerd",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 80228
+  },
+  {
+    "name": "Hibbing",
+    "city": "Hibbing",
+    "state": "MN",
+    "stateName": "Minnesota",
+    "id": 80238
+  },
+  {
+    "name": "Jackson",
+    "city": "Jackson",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 32768
+  },
+  {
+    "name": "Meridian",
+    "city": "Meridian",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 32795
+  },
+  {
+    "name": "Tupelo",
+    "city": "Tupelo",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 32877
+  },
+  {
+    "name": "Greenville",
+    "city": "Greenville",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 80237
+  },
+  {
+    "name": "Columbus",
+    "city": "Columbus",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 83778
+  },
+  {
+    "name": "Gulfport",
+    "city": "Gulfport",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 83784
+  },
+  {
+    "name": "Hattiesburg",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 83785
+  },
+  {
+    "name": "Greenwood",
+    "city": "Greenwood",
+    "state": "MS",
+    "stateName": "Mississippi",
+    "id": 85837
+  },
+  {
+    "name": "Columbia",
+    "city": "Columbia",
+    "state": "MO",
+    "stateName": "Missouri",
+    "id": 32692
+  },
+  {
+    "name": "Kansas City",
+    "city": "Kansas City",
+    "state": "MO",
+    "stateName": "Missouri",
+    "id": 32791
+  },
+  {
+    "name": "Springfield",
+    "city": "Springfield",
+    "state": "MO",
+    "stateName": "Missouri",
+    "id": 32855
+  },
+  {
+    "name": "St Louis",
+    "city": "St Louis",
+    "state": "MO",
+    "stateName": "Missouri",
+    "id": 32867
+  },
+  {
+    "name": "Jefferson City",
+    "city": "Jefferson City",
+    "state": "MO",
+    "stateName": "Missouri",
+    "id": 83788
+  },
+  {
+    "name": "Poplar Bluff",
+    "city": "Poplar Bluff",
+    "state": "MO",
+    "stateName": "Missouri",
+    "id": 85854
+  },
+  {
+    "name": "Billings",
+    "city": "Billings",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32664
+  },
+  {
+    "name": "Kalispell",
+    "city": "Kalispell",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32725
+  },
+  {
+    "name": "Glasgow",
+    "city": "Glasgow",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32734
+  },
+  {
+    "name": "Great Falls",
+    "city": "Great Falls",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32745
+  },
+  {
+    "name": "Helena",
+    "city": "Helena",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32747
+  },
+  {
+    "name": "Havre",
+    "city": "Havre",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32755
+  },
+  {
+    "name": "Missoula",
+    "city": "Missoula",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 32808
+  },
+  {
+    "name": "Deer Lodge",
+    "city": "Deer Lodge",
+    "state": "MT",
+    "stateName": "Montana",
+    "id": 94452
+  },
+  {
+    "name": "Scottsbluff",
+    "city": "Scottsbluff",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32658
+  },
+  {
+    "name": "Grand Island",
+    "city": "Grand Island",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32741
+  },
+  {
+    "name": "North Platte",
+    "city": "North Platte",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32777
+  },
+  {
+    "name": "Lincoln",
+    "city": "Lincoln",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32785
+  },
+  {
+    "name": "Norfolk",
+    "city": "Norfolk",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32812
+  },
+  {
+    "name": "Omaha",
+    "city": "Omaha",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32816
+  },
+  {
+    "name": "Valentine",
+    "city": "Valentine",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 32883
+  },
+  {
+    "name": "Hastings",
+    "city": "Hastings",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 80239
+  },
+  {
+    "name": "McCook",
+    "city": "McCook",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 83793
+  },
+  {
+    "name": "Ord",
+    "city": "Ord",
+    "state": "NE",
+    "stateName": "Nebraska",
+    "id": 94462
+  },
+  {
+    "name": "SOUTH FORK STATE RECREATION AREA",
+    "city": "SOUTH FORK STATE RECREATION AREA",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 18289
+  },
+  {
+    "name": "Elko",
+    "city": "Elko",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 32714
+  },
+  {
+    "name": "Ely",
+    "city": "Ely",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 32716
+  },
+  {
+    "name": "Las Vegas",
+    "city": "Las Vegas",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 32774
+  },
+  {
+    "name": "Reno",
+    "city": "Reno",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 32841
+  },
+  {
+    "name": "Winnemucca",
+    "city": "Winnemucca",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 32885
+  },
+  {
+    "name": "MT ROSE SKI AREA",
+    "city": "MT ROSE SKI AREA",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 67636
+  },
+  {
+    "name": "Eureka",
+    "city": "Eureka",
+    "state": "NV",
+    "stateName": "Nevada",
+    "id": 94464
+  },
+  {
+    "name": "Concord",
+    "city": "Concord",
+    "state": "NH",
+    "stateName": "New Hampshire",
+    "id": 32690
+  },
+  {
+    "name": "Manchester",
+    "city": "Manchester",
+    "state": "NH",
+    "stateName": "New Hampshire",
+    "id": 80251
+  },
+  {
+    "name": "Atlantic City",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "id": 32636
+  },
+  {
+    "name": "Newark",
+    "city": "Newark",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "id": 32720
+  },
+  {
+    "name": "Trenton",
+    "city": "Trenton",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "id": 80271
+  },
+  {
+    "name": "Belvidere",
+    "city": "Belvidere",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "id": 83770
+  },
+  {
+    "name": "New Brunswick",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "id": 83797
+  },
+  {
+    "name": "Atlantic City Marina",
+    "city": "Atlantic City Marina",
+    "state": "NJ",
+    "stateName": "New Jersey",
+    "id": 85824
+  },
+  {
+    "name": "LA MADERA SKI AREA",
+    "city": "LA MADERA SKI AREA",
+    "state": "NM",
+    "stateName": "New Mexico",
+    "id": 19406
+  },
+  {
+    "name": "THOREAU",
+    "city": "THOREAU",
+    "state": "NM",
+    "stateName": "New Mexico",
+    "id": 19438
+  },
+  {
+    "name": "Albuquerque",
+    "city": "Albuquerque",
+    "state": "NM",
+    "stateName": "New Mexico",
+    "id": 32633
+  },
+  {
+    "name": "Clayton",
+    "city": "Clayton",
+    "state": "NM",
+    "stateName": "New Mexico",
+    "id": 32681
+  },
+  {
+    "name": "Roswell",
+    "city": "Roswell",
+    "state": "NM",
+    "stateName": "New Mexico",
+    "id": 32844
+  },
+  {
+    "name": "THURSTON 2",
+    "city": "THURSTON 2",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 19032
+  },
+  {
+    "name": "Albany",
+    "city": "Albany",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32641
+  },
+  {
+    "name": "Binghamton",
+    "city": "Binghamton",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32660
+  },
+  {
+    "name": "Buffalo",
+    "city": "Buffalo",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32677
+  },
+  {
+    "name": "Islip",
+    "city": "Islip",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32766
+  },
+  {
+    "name": "New York-Kennedy Airport",
+    "city": "New York-Kennedy Airport",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32770
+  },
+  {
+    "name": "New York-LGA",
+    "city": "New York-LGA",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32780
+  },
+  {
+    "name": "New York-Central Park",
+    "city": "New York-Central Park",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32811
+  },
+  {
+    "name": "Rochester",
+    "city": "Rochester",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32843
+  },
+  {
+    "name": "Syracuse",
+    "city": "Syracuse",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 32869
+  },
+  {
+    "name": "Poughkeepsie",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 80260
+  },
+  {
+    "name": "Glens Falls",
+    "city": "Glens Falls",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 83783
+  },
+  {
+    "name": "Plattsburgh",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 83799
+  },
+  {
+    "name": "Fredonia",
+    "city": "Fredonia",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 83803
+  },
+  {
+    "name": "Saranac Lake",
+    "city": "Saranac Lake",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 83805
+  },
+  {
+    "name": "Jamestown",
+    "city": "Jamestown",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 85841
+  },
+  {
+    "name": "Oswego",
+    "city": "Oswego",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 85851
+  },
+  {
+    "name": "Newcomb",
+    "city": "Newcomb",
+    "state": "NY",
+    "stateName": "New York",
+    "id": 94461
+  },
+  {
+    "name": "Asheville",
+    "city": "Asheville",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 32653
+  },
+  {
+    "name": "Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 32687
+  },
+  {
+    "name": "Greensboro",
+    "city": "Greensboro",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 32743
+  },
+  {
+    "name": "Cape Hatteras",
+    "city": "Cape Hatteras",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 32751
+  },
+  {
+    "name": "Wilmington",
+    "city": "Wilmington",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 32760
+  },
+  {
+    "name": "Raleigh",
+    "city": "Raleigh",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 32838
+  },
+  {
+    "name": "Elizabeth City",
+    "city": "Elizabeth City",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 80233
+  },
+  {
+    "name": "Lumberton",
+    "city": "Lumberton",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 80245
+  },
+  {
+    "name": "Fayetteville",
+    "city": "Fayetteville",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 83781
+  },
+  {
+    "name": "Mount Mitchell",
+    "city": "Mount Mitchell",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 85846
+  },
+  {
+    "name": "Bryson City",
+    "city": "Bryson City",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 94448
+  },
+  {
+    "name": "New Bern",
+    "city": "New Bern",
+    "state": "NC",
+    "stateName": "North Carolina",
+    "id": 94455
+  },
+  {
+    "name": "Bismarck",
+    "city": "Bismarck",
+    "state": "ND",
+    "stateName": "North Dakota",
+    "id": 32665
+  },
+  {
+    "name": "Fargo",
+    "city": "Fargo",
+    "state": "ND",
+    "stateName": "North Dakota",
+    "id": 32723
+  },
+  {
+    "name": "Grand Forks",
+    "city": "Grand Forks",
+    "state": "ND",
+    "stateName": "North Dakota",
+    "id": 32733
+  },
+  {
+    "name": "Williston",
+    "city": "Williston",
+    "state": "ND",
+    "stateName": "North Dakota",
+    "id": 32765
+  },
+  {
+    "name": "Saipan",
+    "city": "Saipan",
+    "state": "MP",
+    "stateName": "MP",
+    "id": 32979
+  },
+  {
+    "name": "Akron",
+    "city": "Akron",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32680
+  },
+  {
+    "name": "Cleveland",
+    "city": "Cleveland",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32686
+  },
+  {
+    "name": "Columbus",
+    "city": "Columbus",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32688
+  },
+  {
+    "name": "Cincinnati",
+    "city": "Cincinnati",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32698
+  },
+  {
+    "name": "Dayton",
+    "city": "Dayton",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32702
+  },
+  {
+    "name": "Mansfield",
+    "city": "Mansfield",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32797
+  },
+  {
+    "name": "Toledo",
+    "city": "Toledo",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32872
+  },
+  {
+    "name": "Youngstown",
+    "city": "Youngstown",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 32888
+  },
+  {
+    "name": "New Philadelphia",
+    "city": "New Philadelphia",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 80258
+  },
+  {
+    "name": "Zanesville",
+    "city": "Zanesville",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 80273
+  },
+  {
+    "name": "Athens",
+    "city": "Athens",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 94446
+  },
+  {
+    "name": "Wilmington",
+    "city": "Wilmington",
+    "state": "OH",
+    "stateName": "Ohio",
+    "id": 94457
+  },
+  {
+    "name": "Oklahoma City",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "stateName": "Oklahoma",
+    "id": 32814
+  },
+  {
+    "name": "Tulsa",
+    "city": "Tulsa",
+    "state": "OK",
+    "stateName": "Oklahoma",
+    "id": 32876
+  },
+  {
+    "name": "Lawton",
+    "city": "Lawton",
+    "state": "OK",
+    "stateName": "Oklahoma",
+    "id": 80244
+  },
+  {
+    "name": "Stillwater",
+    "city": "Stillwater",
+    "state": "OK",
+    "stateName": "Oklahoma",
+    "id": 83809
+  },
+  {
+    "name": "Astoria",
+    "city": "Astoria",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32649
+  },
+  {
+    "name": "Burns",
+    "city": "Burns",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32668
+  },
+  {
+    "name": "Eugene",
+    "city": "Eugene",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32718
+  },
+  {
+    "name": "Medford",
+    "city": "Medford",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32798
+  },
+  {
+    "name": "Pendleton",
+    "city": "Pendleton",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32825
+  },
+  {
+    "name": "Portland",
+    "city": "Portland",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32826
+  },
+  {
+    "name": "Salem",
+    "city": "Salem",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 32861
+  },
+  {
+    "name": "Baker City",
+    "city": "Baker City",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 80227
+  },
+  {
+    "name": "Ontario",
+    "city": "Ontario",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 80256
+  },
+  {
+    "name": "Brookings",
+    "city": "Brookings",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 83773
+  },
+  {
+    "name": "Klamath Falls",
+    "city": "Klamath Falls",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 83791
+  },
+  {
+    "name": "Portland Downtown",
+    "city": "Portland Downtown",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 83801
+  },
+  {
+    "name": "Hillsboro",
+    "city": "Hillsboro",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 85839
+  },
+  {
+    "name": "McMinnville",
+    "city": "McMinnville",
+    "state": "OR",
+    "stateName": "Oregon",
+    "id": 85847
+  },
+  {
+    "name": "Koror",
+    "city": "Koror",
+    "state": "PW",
+    "stateName": "PW",
+    "id": 32978
+  },
+  {
+    "name": "Allentown",
+    "city": "Allentown",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32631
+  },
+  {
+    "name": "Avoca",
+    "city": "Avoca",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32654
+  },
+  {
+    "name": "Erie",
+    "city": "Erie",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32717
+  },
+  {
+    "name": "Williamsport",
+    "city": "Williamsport",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32764
+  },
+  {
+    "name": "Middletown-Harrisburg",
+    "city": "Middletown-Harrisburg",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32794
+  },
+  {
+    "name": "Philadelphia",
+    "city": "Philadelphia",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32827
+  },
+  {
+    "name": "Pittsburgh",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 32831
+  },
+  {
+    "name": "Reading",
+    "city": "Reading",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 80265
+  },
+  {
+    "name": "Mount Pocono",
+    "city": "Mount Pocono",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 83795
+  },
+  {
+    "name": "Philadelphia Center City",
+    "city": "Philadelphia Center City",
+    "state": "PA",
+    "stateName": "Pennsylvania",
+    "id": 85852
+  },
+  {
+    "name": "San Juan",
+    "city": "San Juan",
+    "state": "PR",
+    "stateName": "PR",
+    "id": 32859
+  },
+  {
+    "name": "Providence",
+    "city": "Providence",
+    "state": "RI",
+    "stateName": "Rhode Island",
+    "id": 32834
+  },
+  {
+    "name": "Columbia",
+    "city": "Columbia",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 32679
+  },
+  {
+    "name": "Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 32685
+  },
+  {
+    "name": "Greenville-Spartanburg",
+    "city": "Greenville-Spartanburg",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 32744
+  },
+  {
+    "name": "Aiken",
+    "city": "Aiken",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 83767
+  },
+  {
+    "name": "Pickens",
+    "city": "Pickens",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 83802
+  },
+  {
+    "name": "Caesars Head",
+    "city": "Caesars Head",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 85830
+  },
+  {
+    "name": "Myrtle Beach",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 85831
+  },
+  {
+    "name": "Charleston Downtown",
+    "city": "Charleston Downtown",
+    "state": "SC",
+    "stateName": "South Carolina",
+    "id": 85832
+  },
+  {
+    "name": "Aberdeen",
+    "city": "Aberdeen",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 32634
+  },
+  {
+    "name": "Sioux Falls",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 32729
+  },
+  {
+    "name": "Huron",
+    "city": "Huron",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 32750
+  },
+  {
+    "name": "Rapid City",
+    "city": "Rapid City",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 32836
+  },
+  {
+    "name": "Mitchell",
+    "city": "Mitchell",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 80250
+  },
+  {
+    "name": "Rapid City Downtown",
+    "city": "Rapid City Downtown",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 83814
+  },
+  {
+    "name": "Sisseton",
+    "city": "Sisseton",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 85825
+  },
+  {
+    "name": "Mobridge",
+    "city": "Mobridge",
+    "state": "SD",
+    "stateName": "South Dakota",
+    "id": 85843
+  },
+  {
+    "name": "Nashville",
+    "city": "Nashville",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "id": 32667
+  },
+  {
+    "name": "Chattanooga",
+    "city": "Chattanooga",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "id": 32684
+  },
+  {
+    "name": "Memphis",
+    "city": "Memphis",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "id": 32796
+  },
+  {
+    "name": "Oak Ridge",
+    "city": "Oak Ridge",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "id": 32818
+  },
+  {
+    "name": "Bristol-Johnson City",
+    "city": "Bristol-Johnson City",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "id": 32875
+  },
+  {
+    "name": "Knoxville",
+    "city": "Knoxville",
+    "state": "TN",
+    "stateName": "Tennessee",
+    "id": 32879
+  },
+  {
+    "name": "Abilene",
+    "city": "Abilene",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32632
+  },
+  {
+    "name": "Waco",
+    "city": "Waco",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32635
+  },
+  {
+    "name": "Amarillo",
+    "city": "Amarillo",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32644
+  },
+  {
+    "name": "Austin",
+    "city": "Austin",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32651
+  },
+  {
+    "name": "Austin-Bergstrom Airport",
+    "city": "Austin-Bergstrom Airport",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32652
+  },
+  {
+    "name": "Beaumont-Port Arthur",
+    "city": "Beaumont-Port Arthur",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32671
+  },
+  {
+    "name": "Brownsville",
+    "city": "Brownsville",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32672
+  },
+  {
+    "name": "Corpus Christi",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32695
+  },
+  {
+    "name": "Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32701
+  },
+  {
+    "name": "Dallas-Fort Worth",
+    "city": "Dallas-Fort Worth",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32707
+  },
+  {
+    "name": "Del Rio",
+    "city": "Del Rio",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32709
+  },
+  {
+    "name": "El Paso",
+    "city": "El Paso",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32715
+  },
+  {
+    "name": "Galveston",
+    "city": "Galveston",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32738
+  },
+  {
+    "name": "Houston",
+    "city": "Houston",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32757
+  },
+  {
+    "name": "Lubbock",
+    "city": "Lubbock",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32776
+  },
+  {
+    "name": "Midland-Odessa",
+    "city": "Midland-Odessa",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32789
+  },
+  {
+    "name": "San Antonio",
+    "city": "San Antonio",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32848
+  },
+  {
+    "name": "San Angelo",
+    "city": "San Angelo",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32858
+  },
+  {
+    "name": "Wichita Falls",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32865
+  },
+  {
+    "name": "Victoria",
+    "city": "Victoria",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 32881
+  },
+  {
+    "name": "Childress",
+    "city": "Childress",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 35080
+  },
+  {
+    "name": "College Station",
+    "city": "College Station",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 80230
+  },
+  {
+    "name": "Borger",
+    "city": "Borger",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 83771
+  },
+  {
+    "name": "Laredo",
+    "city": "Laredo",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 83792
+  },
+  {
+    "name": "McAllen",
+    "city": "McAllen",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 83794
+  },
+  {
+    "name": "Tyler",
+    "city": "Tyler",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 83812
+  },
+  {
+    "name": "Longview",
+    "city": "Longview",
+    "state": "TX",
+    "stateName": "Texas",
+    "id": 85835
+  },
+  {
+    "name": "LITTLE SAHARA RECREATION AREA",
+    "city": "LITTLE SAHARA RECREATION AREA",
+    "state": "UT",
+    "stateName": "Utah",
+    "id": 24607
+  },
+  {
+    "name": "DINOSAUR NM-QUARRY AREA",
+    "city": "DINOSAUR NM-QUARRY AREA",
+    "state": "UT",
+    "stateName": "Utah",
+    "id": 24694
+  },
+  {
+    "name": "Salt Lake City",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "stateName": "Utah",
+    "id": 32860
+  },
+  {
+    "name": "Burlington",
+    "city": "Burlington",
+    "state": "VT",
+    "stateName": "Vermont",
+    "id": 32676
+  },
+  {
+    "name": "Sterling-Dulles Airport",
+    "city": "Sterling-Dulles Airport",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 32756
+  },
+  {
+    "name": "Lynchburg",
+    "city": "Lynchburg",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 32788
+  },
+  {
+    "name": "Norfolk",
+    "city": "Norfolk",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 32820
+  },
+  {
+    "name": "Richmond",
+    "city": "Richmond",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 32840
+  },
+  {
+    "name": "Roanoke",
+    "city": "Roanoke",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 32842
+  },
+  {
+    "name": "Wallops Island",
+    "city": "Wallops Island",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 32884
+  },
+  {
+    "name": "Danville",
+    "city": "Danville",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 83779
+  },
+  {
+    "name": "Charlottesville",
+    "city": "Charlottesville",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 94451
+  },
+  {
+    "name": "Blacksburg",
+    "city": "Blacksburg",
+    "state": "VA",
+    "stateName": "Virginia",
+    "id": 94466
+  },
+  {
+    "name": "Spokane",
+    "city": "Spokane",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 32732
+  },
+  {
+    "name": "Olympia",
+    "city": "Olympia",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 32815
+  },
+  {
+    "name": "Seattle Tacoma",
+    "city": "Seattle Tacoma",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 32853
+  },
+  {
+    "name": "Quillayute",
+    "city": "Quillayute",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 32880
+  },
+  {
+    "name": "Yakima",
+    "city": "Yakima",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 32887
+  },
+  {
+    "name": "Tri-Cities",
+    "city": "Tri-Cities",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 80261
+  },
+  {
+    "name": "Pullman",
+    "city": "Pullman",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 80263
+  },
+  {
+    "name": "Omak",
+    "city": "Omak",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 83798
+  },
+  {
+    "name": "Vancouver",
+    "city": "Vancouver",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 83815
+  },
+  {
+    "name": "Seattle City",
+    "city": "Seattle City",
+    "state": "WA",
+    "stateName": "Washington",
+    "id": 98626
+  },
+  {
+    "name": "Beckley",
+    "city": "Beckley",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 32666
+  },
+  {
+    "name": "Charleston",
+    "city": "Charleston",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 32696
+  },
+  {
+    "name": "Elkins",
+    "city": "Elkins",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 32713
+  },
+  {
+    "name": "Huntington",
+    "city": "Huntington",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 32754
+  },
+  {
+    "name": "Wheeling",
+    "city": "Wheeling",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 80240
+  },
+  {
+    "name": "Morgantown",
+    "city": "Morgantown",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 80249
+  },
+  {
+    "name": "Parkersburg",
+    "city": "Parkersburg",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 80259
+  },
+  {
+    "name": "Bluefield",
+    "city": "Bluefield",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 83772
+  },
+  {
+    "name": "Clarksburg",
+    "city": "Clarksburg",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 83777
+  },
+  {
+    "name": "Martinsburg",
+    "city": "Martinsburg",
+    "state": "WV",
+    "stateName": "West Virginia",
+    "id": 85848
+  },
+  {
+    "name": "ARGONNE 1.5-NW",
+    "city": "ARGONNE 1.5-NW",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 29332
+  },
+  {
+    "name": "Green Bay",
+    "city": "Green Bay",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 32740
+  },
+  {
+    "name": "La Crosse",
+    "city": "La Crosse",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 32786
+  },
+  {
+    "name": "Milwaukee",
+    "city": "Milwaukee",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 32801
+  },
+  {
+    "name": "Madison",
+    "city": "Madison",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 32807
+  },
+  {
+    "name": "Ashland",
+    "city": "Ashland",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 80225
+  },
+  {
+    "name": "Wausau",
+    "city": "Wausau",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 80226
+  },
+  {
+    "name": "Eau Claire",
+    "city": "Eau Claire",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 80232
+  },
+  {
+    "name": "Hayward",
+    "city": "Hayward",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 80242
+  },
+  {
+    "name": "Rhinelander",
+    "city": "Rhinelander",
+    "state": "WI",
+    "stateName": "Wisconsin",
+    "id": 94465
+  },
+  {
+    "name": "Casper",
+    "city": "Casper",
+    "state": "WY",
+    "stateName": "Wyoming",
+    "id": 32693
+  },
+  {
+    "name": "Cheyenne",
+    "city": "Cheyenne",
+    "state": "WY",
+    "stateName": "Wyoming",
+    "id": 32699
+  },
+  {
+    "name": "Lander",
+    "city": "Lander",
+    "state": "WY",
+    "stateName": "Wyoming",
+    "id": 32784
+  },
+  {
+    "name": "Sheridan",
+    "city": "Sheridan",
+    "state": "WY",
+    "stateName": "Wyoming",
+    "id": 32856
+  }
+]
